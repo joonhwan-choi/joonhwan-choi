@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
 
 
-#### 🏆 Award and Project experience
+#### 🏆 Project experience and Award
 #
 | PERIOD | Competition organizer | SUBJECT | 
 | ------- | ------- | -------|
