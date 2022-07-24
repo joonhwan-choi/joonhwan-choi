@@ -3,17 +3,14 @@
 
 
 
-## 🌹 t e c h 🌹
+## My Stack
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Joowon0220/TODO-List) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/Joowon0220/svelte)
-
-
+![-Python-orange](https://user-images.githubusercontent.com/83737075/180651655-86be8be9-3b43-467c-ab21-f3df87adbdf2.svg)
+![-android](https://img.shields.io/badge/-Android-green)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather)
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)  
-<br><br><br>
 
 #### 🏆 Award and Project experience
 #
