@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JoonhwanChoi)
 
-### I'm Choi Junhwan, who hopes to become a full stack engineer in the future
+### Hi, I am Junhwan Choi. My dream is to be able to program the ideas I imagined
 
 
 ## 🛠 My Stack
