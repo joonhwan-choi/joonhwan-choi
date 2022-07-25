@@ -52,14 +52,7 @@ SMPL 모델을 활용한 3D 모델의 트레이닝 변화 과정 시뮬레이션
  
 
 ## 🖥 Program Production Inquiries 
+프로그램 및 매크로, 웹크롤링, 데이터수집 · 전처리작업등 문의
+
 https://kmong.com/gig/98525
 
-<br><br><br>
-
-
-### 💌  t o d a y 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoowon0220&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br><br><br><br>
-
-</div>
