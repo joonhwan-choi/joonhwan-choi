@@ -15,7 +15,6 @@
 
 
 ### 🏆 Project experience and Award
-#
 | PERIOD | Competition organizer | SUBJECT | 
 | ------- | ------- | -------|
 | 2015. 04 | 광주광역시 기능경기 위원회 | 지방기능경기대회-정보기술 금메달  |
