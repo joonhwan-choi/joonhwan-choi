@@ -1,10 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JoonhwanChoi)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhwan-choi&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonhwan-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### I'm Choi Junhwan, who hopes to become a full stack engineer in the future
 
 
@@ -65,3 +61,9 @@ SMPL 모델을 활용한 3D 모델의 트레이닝 변화 과정 시뮬레이션
 
 https://kmong.com/gig/98525
 
+
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhwan-choi&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonhwan-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
