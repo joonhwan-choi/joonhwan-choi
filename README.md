@@ -5,7 +5,7 @@
 ### I'm Choi Junhwan, who hopes to become a full stack engineer in the future
 
 
-## My Stack
+## 🛠 My Stack
 
 
 ![-Python-orange](https://user-images.githubusercontent.com/83737075/180651655-86be8be9-3b43-467c-ab21-f3df87adbdf2.svg)
@@ -30,6 +30,10 @@
 | 2022. 05 | 한국멀티미디어학회 | 2022 춘계 멀티미디어학회 우수논문상  |
 | 2022. 07 | 한국멀티미디어학회(KMMS) | 제 18회 MITA 2022 Jeju 학술대회 참가  |
 | 2022. 07 | 전남대학교 소프트웨어중심대학사업단 | 제3회 오아시스해커톤 최우수상 |
+
+## 📃 Thesis 
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joonhwan8764@gmail.com)
+ 
 
 ## 💫 m e 
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joonhwan8764@gmail.com)
