@@ -1,13 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JoonhwanChoi)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhwan-choi&show_icons=true&theme=tokyonight)
 
 
 ### I'm Choi Junhwan, who hopes to become a full stack engineer in the future
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhwan-choi&show_icons=true&theme=tokyonight)
 
 
 ## 🛠 My Stack
