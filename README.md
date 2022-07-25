@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
 
 
-#### 🏆 Project experience and Award
+### 🏆 Project experience and Award
 #
 | PERIOD | Competition organizer | SUBJECT | 
 | ------- | ------- | -------|
@@ -51,7 +51,7 @@ AI윤리 기반한 건전한 채팅 문화 환경 구현 - 최준환*, 이원빈
 SMPL 모델을 활용한 3D 모델의 트레이닝 변화 과정 시뮬레이션 연구 - 최준환*, 백란
  
 
-## 💫 m e 
+## 🖥 Program Production Inquiries 
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joonhwan8764@gmail.com)
  
 <br><br><br>
