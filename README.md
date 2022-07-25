@@ -51,7 +51,7 @@ SMPL 모델을 활용한 3D 모델의 트레이닝 변화 과정 시뮬레이션
  
 
 ## 🖥 Program Production Inquiries 
-프로그램 및 매크로, 웹크롤링, 데이터수집 · 전처리작업등 문의
+프로그램 및 매크로, 웹크롤링 문의
 
 https://kmong.com/gig/98525
 
