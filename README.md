@@ -21,7 +21,7 @@
 
 
 ## 📃 Portfolio
-https://glen-citron-1e2.notion.site/cf971d61eb3e482a83357c0bc4fa03f7
+https://glen-citron-1e2.notion.site/1e247c283d834e0e9a2be810456a549a
 
 ## 🖥 Program Production Inquiries 
 프로그램 및 매크로, 웹크롤링 제작 문의
